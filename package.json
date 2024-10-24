@@ -25,6 +25,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"after": "^0.8.2",
 		"postgres": "^3.4.4",
 		"vite-plugin-mkcert": "^1.17.5"
 	}
