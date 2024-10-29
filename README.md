@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-angellyn218-xp8t-5mn7iirls.vercel.app/
+https://deploy-this-repo-angellyn218-xp8t.vercel.app/
 
 
